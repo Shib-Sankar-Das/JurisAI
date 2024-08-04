@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1012957986376",
+    "project_id": "jurisai-91c77",
+    "storage_bucket": "jurisai-91c77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012957986376:android:a1c1d59235354e292ae27d",
+        "android_client_info": {
+          "package_name": "com.shivshankar.lawgpt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJnWZe7vhmmqPBzoPJb9LAXwuT4Z-LCVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
